@@ -20,7 +20,7 @@ more_movies = [
   {:title => 'Intersteller', :rating => 'PG-13',
     :release_date => '26-Oct-2014'},
   {:title => 'Mission Impossible', :rating => 'PG-13',
-    :release_date => '22-May-1996'}
+    :release_date => '22-May-1996'},
   {:title => 'Romeo Juliet', :rating => 'PG-13',
     :release_date => '01-Nov-1996'}
 ]
